@@ -5,3 +5,12 @@
 ```shell
 npm i -S afeiship/ushell-module-rime
 ```
+
+## decription
+```conf
+; macos
+$HOME/Library/Rime
+
+; ubuntu
+$HOME/.config/ibus/rime
+```

@@ -3,11 +3,11 @@
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
 if [ -f /etc/lsb-release ]; then
-    RIME_HOME="$HOME/Library/Rime"
+    USM_RIME_HOME="$HOME/.config/ibus/rime"
 fi
 
 if [[ $(uname) == Darwin ]]; then
-    RIME_HOME="$HOME/.config/ibus/rime"
+    USM_RIME_HOME="$HOME/Library/Rime"
 fi
 
 

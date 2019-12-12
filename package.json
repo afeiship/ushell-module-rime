@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-rime/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-rime"
+  "homepage": "https://github.com/afeiship/ushell-module-rime",
+  "dependencies": {
+    "ushell-module-ostype": "github:afeiship/ushell-module-ostype"
+  }
 }

@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S afeiship/ushell-module-rime
+npm i -S @feizheng/ushell-module-rime
 ```
 
 ## decription

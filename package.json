@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/ushell-module-rime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some env or config for rime.",
   "main": "index.sh",
   "repository": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/afeiship/ushell-module-rime",
   "dependencies": {
-    "ushell-module-ostype": "github:afeiship/ushell-module-ostype"
+    "@feizheng/ushell-module-ostype": "^1.0.1"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"

@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-rime
+npm i -S @jswork/ushell-module-rime
 ```
 
 ## decription
